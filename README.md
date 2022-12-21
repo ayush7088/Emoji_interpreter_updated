@@ -6,3 +6,6 @@ Tech Used:
 1. JavaScript,ReactJS
 2. HTML
 3. CSS
+
+Below is a sample of its UI.
+![image](https://user-images.githubusercontent.com/56500938/208817459-ca15f6a3-2073-4c6d-b6b8-0d45c0ee966a.png)
